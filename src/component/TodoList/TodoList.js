@@ -109,7 +109,6 @@ export default function TodoList(){
                     <option value={"Important"}>Important</option>
                     <option value={"Vip"}>Vip</option>
                     <option value={"Normal"}>Normal</option>
-
                 </select>
             </div>
             <div className={"d-flex justify-content-around mt-3"}>

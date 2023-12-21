@@ -1,11 +1,9 @@
-
 import './App.css';
-import TodoList from "./component/TodoList/TodoList";
+import SignUp from "./component/SignUp/SignUp";
 
 function App() {
   return (
-    <TodoList/>
+    <SignUp />
   );
 }
-
 export default App;
